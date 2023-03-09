@@ -1,0 +1,16 @@
+* {margin:0;padding: 0;}
+h1{
+    color: crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+    color: cornflowerblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+
+input{
+    width: 200px;
+    background-color: gold;
+}
