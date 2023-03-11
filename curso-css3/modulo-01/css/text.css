@@ -3,6 +3,25 @@
 p{
     color: red;
     text-align: justify;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    text-shadow: 3px ;
+}
+
+#texto2{
+    color:aqua;
+    text-align: right;
+    text-transform: lowercase;
+    letter-spacing: 10px;
+    text-shadow: 4px ;
+}
+
+#texto3{
+    color:darkgoldenrod;
+    text-align: left;
+    text-transform: capitalize;
+    letter-spacing: 15px;
+    text-shadow: 5px 7px black;
 }
 
 h1{
